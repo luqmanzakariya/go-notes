@@ -1,0 +1,6 @@
+github.com/luqmanzakariya/go-modules-example v1.0.0 h1:Hczbl11cZxFgpwrupGVKwI9/Po74yEKHKg1UBBzfOrY=
+github.com/luqmanzakariya/go-modules-example v1.0.0/go.mod h1:uJ3vwIJqtbyWDgZQqV/j8AOniVsWRP36LWgPuxTLNRc=
+github.com/luqmanzakariya/go-modules-example v1.2.0 h1:TkNlqV+lqZTPtM90472j2X9ARHAo8Wap0DdXxaph1xc=
+github.com/luqmanzakariya/go-modules-example v1.2.0/go.mod h1:uJ3vwIJqtbyWDgZQqV/j8AOniVsWRP36LWgPuxTLNRc=
+github.com/luqmanzakariya/go-modules-example/v2 v2.0.0 h1:XNQoaTx+gDYjAeEdpdFr0f041nB2+LytRb9fV6fsXWE=
+github.com/luqmanzakariya/go-modules-example/v2 v2.0.0/go.mod h1:EacX+XYsPI6q9y2LwkbNuof51S2OeW50A4uNW9NBphc=
