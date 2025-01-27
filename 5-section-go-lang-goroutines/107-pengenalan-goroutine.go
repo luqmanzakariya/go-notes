@@ -7,7 +7,7 @@ package main
 - Namun tidak seperti thread yang berjalan parallel, goroutine berjalan secara concurrent
 */
 
-/* === Cara Kerja Goroutine  ===
+/* === Cara Kerja Goroutine ===
 - Sebenarnya, Goroutine dijalankan oleh Go Scheduler dalam thread, dimana jumlah thread nya sebanyak
 	GOMAXPROCS (biasanya sejumlah core CPU)
 - Jadi sebenarnya tidak bisa dibilang Goroutine itu pengganti Thread, karena Goroutine sendiri berjalan
